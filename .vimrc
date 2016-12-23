@@ -150,9 +150,9 @@ let g:UltiSnipsJumpBackwardTrigger="<c-z>"
 
 " If you want :UltiSnipsEdit to split your window.
 let g:UltiSnipsEditSplit="vertical"
-let g:snips_author='zhaoweiluo'
-let g:author='zhaoweiluo'
-let g:snips_email='zhaoweiluo@360.com'
+let g:snips_author='luoluo'
+let g:author='luoluo'
+let g:snips_email='luoluo@.com'
 " powerline 
 set guifont=PowerlineSymbols\ for\ Powerline
 set nocompatible
